@@ -45,3 +45,9 @@ Esse comportamento reproduz a operação de uma **porta lógica AND** no Arduino
 📁 Projeto_01
  ├── README.md
  └── Projeto_01.ino
+
+
+## Link do projeto da simulação no Tinkercad
+- https://www.tinkercad.com/things/5sqcZSe9aAm-projeto-01
+
+![Imagem da simulação](arduino_Projects/images/projeto01.png)
