@@ -21,7 +21,7 @@ A simulação foi desenvolvida no **Tinkercad**, servindo como estudo prático d
 - 1 LED  
 - 1 Resistor (LED)  
 - Resistores (pull-down)  
-- Protoboard e jumpers  
+- Jumpers
 - Tinkercad (simulação)
 
 ---
@@ -43,8 +43,8 @@ Esse comportamento reproduz a operação de uma **porta lógica AND** no Arduino
 
 ## 📂 Estrutura do Repositório
 📁 Projeto_01
- ├── README.md
- └── Projeto_01.ino
+ - >README.md
+ - >Projeto_01.ino
 
 
 ## Link do projeto da simulação no Tinkercad
