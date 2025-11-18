@@ -50,5 +50,5 @@ Esse comportamento reproduz a operação de uma **porta lógica AND** no Arduino
 ## Link do projeto da simulação no Tinkercad
 - https://www.tinkercad.com/things/5sqcZSe9aAm-projeto-01
 
-![Imagem da simulação](images_01/projeto01.png)
+![Imagem da simulação](images/projeto01.png)
 
